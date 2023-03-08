@@ -122,6 +122,12 @@ html {
   font-size: 15px;
 }
 
+.pallet {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+
 :root {
   scroll-behavior: unset;
 }
