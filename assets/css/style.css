@@ -14957,9 +14957,7 @@ static-hero-s4
     color: #fff;
   }
 }/*# sourceMappingURL=style.css.map */
-.memsAndGifts {
-  display: flex;
-}
-.cg-column {
-  flex: 50%;
+.bold-text {
+  font-weight: 700;
+  font-style: italic;
 }
