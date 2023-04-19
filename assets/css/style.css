@@ -126,6 +126,9 @@ html {
   height: 50px;
   width: 50px;
   border-radius: 50px;
+  border-color: #a4a1a1;
+  border-width: .5px;
+  border-style: solid;
 }
 
 .col-centered {
@@ -866,7 +869,7 @@ img {
 }
 
 .preloader {
-  background-color: #4a6f8e;
+  background-color: #d2afff;
   width: 100%;
   height: 100%;
   position: fixed;
@@ -14954,3 +14957,9 @@ static-hero-s4
     color: #fff;
   }
 }/*# sourceMappingURL=style.css.map */
+.memsAndGifts {
+  display: flex;
+}
+.cg-column {
+  flex: 50%;
+}
